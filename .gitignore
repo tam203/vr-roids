@@ -1,0 +1,4 @@
+node_modules
+dest/index.bundle.js
+dest/index.bundle.js.map
+.vscode
